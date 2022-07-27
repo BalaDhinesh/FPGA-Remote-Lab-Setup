@@ -1,0 +1,15 @@
+*.backup
+vivado.txt
+*.jou
+.vscode/
+*.log
+NA/
+tmp_*
+.Xil/
+out/
+harness_axis_ip/
+harness_axi_ip/
+harness_axis_proj/
+harness_axi_proj/
+*.str
+a.out
